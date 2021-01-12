@@ -1,4 +1,4 @@
-# AFCM
+# Additive Functional Cox Model
 
 This repository contains the code to implement "Additive Functional Cox Model (Cui et al. 2021)", including:
 
