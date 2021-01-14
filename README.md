@@ -6,4 +6,4 @@ This repository contains the code to implement "Additive Functional Cox Model (C
 
 2. "vignette_afcm.html": a vignette showing how to implement AFCM in NHANES. 
 
-Other files are available in the online supplements of the paper.
+Other files are available in the online supplements.
