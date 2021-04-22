@@ -4,7 +4,9 @@ This repository contains the code to implement "Additive Functional Cox Model (C
 
 1. "vignette_fcm.pdf": a vignette showing how to fit functional Cox models using mgcv package in R.
 
-2. "NHANES.rds": a cleaned NHANES dataset.
+2. "NHANES.rds": a cleaned NHANES dataset. (temporarily unavailable due to privacy issue)
+
+Please contact me if you are interested in using this cleaned NHANES dataset.
 
 If you use this NHANES dataset as an example in written work, please cite the following paper:
 
